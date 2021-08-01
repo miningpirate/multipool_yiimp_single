@@ -2,7 +2,7 @@
 
 #####################################################
 # Source https://mailinabox.email/ https://github.com/mail-in-a-box/mailinabox
-# Updated by cryptopool.builders for crypto use...
+# Updated by cryptopool.1builders for crypto use...
 #####################################################
 
 clear
